@@ -1,9 +1,45 @@
 
 body {
-    padding: 0px 48px;
+    padding: 0px;
     margin: 0;
+}
+
+body section {
+    padding: 0px 32px;
 }
 
 ul {
     list-style: none;
+}
+
+.header {
+    display: flex;
+    flex-flow: column;
+    background-color: #1F2937;
+    color: #ffffff;
+}
+
+.nav,
+.nav-bar {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title-section {
+    display: flex;
+}
+
+.title-text button {
+    padding: 6px 24px;
+}
+
+.title-img {
+    width: 400px;
+    
+}
+
+figcaption {
+    text-align: center;
 }
