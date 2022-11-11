@@ -2,6 +2,7 @@
 body {
     padding: 0px;
     margin: 0;
+    font-family: 'Montserrat', sans-serif;
 }
 
 body section {
@@ -32,12 +33,14 @@ ul {
 }
 
 .title-text button {
+    background-color: blue;
+    border: 0;
+    color: #fff;
     padding: 6px 24px;
 }
 
 .title-img {
     width: 400px;
-    
 }
 
 figcaption {
