@@ -6,7 +6,7 @@ body {
 }
 
 body section {
-    padding: 0px 32px;
+    padding: 0px 96px;
 }
 
 ul {
@@ -28,8 +28,13 @@ ul {
     justify-content: space-between;
 }
 
+.nav {
+    margin-bottom: 48px;
+}
+
 .title-section {
     display: flex;
+    margin-bottom: 64px;
 }
 
 .title-text button {
@@ -44,5 +49,7 @@ ul {
 }
 
 figcaption {
-    text-align: center;
+    font-size: 10px;
+    font-style: italic;
+    color: lightgray;
 }
