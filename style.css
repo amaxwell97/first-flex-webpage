@@ -126,6 +126,10 @@ figcaption {
     justify-content: center;
 }
 
+.testimonial-person {
+    text-align: right;
+}
+
 
 /* Footer Section */
 
