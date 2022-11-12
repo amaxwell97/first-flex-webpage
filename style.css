@@ -154,6 +154,23 @@ figcaption {
 }
 
 
+/* CTA Section */
+
+.cta-section {
+    padding-top: 48px;
+    padding-bottom: 48px;
+    display: flex;
+    justify-content: center;
+}
+
+.cta-container {
+    height: 50%;
+    width: 75%;
+    background-color: lightblue;
+    border-radius: 12px;
+}
+
+
 /* Footer Section */
 
 .footer {
