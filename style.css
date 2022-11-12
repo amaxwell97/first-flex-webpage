@@ -101,6 +101,20 @@ figcaption {
     border-radius: 20px;
 }
 
+
+/* Testimonial Section */
+
+.testimonial-section {
+    display: flex;
+}
+
+.testimonial-img {
+    height: 450px;
+    width: 350px;
+    background-color: blue;
+}
+
+
 /* Footer Section */
 
 .footer {
