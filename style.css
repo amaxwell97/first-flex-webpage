@@ -79,6 +79,10 @@ figcaption {
     text-align: center;
 }
 
+.rock-title {
+    padding: 32px 0px;
+}
+
 .rock-container {
     display: flex;
     justify-content: space-between;
