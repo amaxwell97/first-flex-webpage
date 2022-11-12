@@ -64,12 +64,14 @@ body section {
 
 .title-img {
     max-width: 500px;
+    border-radius: 20px;
 }
 
 figcaption {
     font-size: 10px;
     font-style: italic;
     color: lightgray;
+    padding-left: 12px;
 }
 
 
@@ -88,6 +90,7 @@ figcaption {
     justify-content: space-around;
     flex-flow: row wrap;
     gap: 24px;
+    padding-bottom: 32px;
 }
 
 .rock-img {
