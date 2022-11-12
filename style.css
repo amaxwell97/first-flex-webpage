@@ -5,10 +5,6 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-body section {
-    padding: 0px 96px;
-}
-
 ul {
     list-style: none;
 }
@@ -18,6 +14,7 @@ ul {
     flex-flow: column;
     background-color: #1F2937;
     color: #ffffff;
+    padding: 0px 275px;
 }
 
 .nav,
@@ -26,6 +23,7 @@ ul {
     gap: 12px;
     align-items: center;
     justify-content: space-between;
+    color: lightgray;
 }
 
 .nav {
@@ -35,12 +33,17 @@ ul {
 .title-section {
     display: flex;
     margin-bottom: 64px;
-    flex: 1;
+    gap: 36px;
+}
+
+.title-text {
+    color: lightgray;
 }
 
 .title-text h1 {
+    color: #fff;
     font-size: 36px;
-    margin-top: 0;
+    margin: 0;
 }
 
 .title-text button {
@@ -50,16 +53,17 @@ ul {
     padding: 6px 24px;
 }
 
-.title-img-container {
-    flex: 2;
-}
-
 .title-img {
-    width: 600px;
+    width: 500px;
 }
 
 figcaption {
     font-size: 10px;
     font-style: italic;
     color: lightgray;
+}
+
+
+.footer {
+    text-align: center;
 }
