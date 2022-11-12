@@ -17,6 +17,9 @@ ul {
     padding: 0px 275px;
 }
 
+
+/* Nav Section */
+
 .nav,
 .nav-bar {
     display: flex;
@@ -29,6 +32,9 @@ ul {
 .nav {
     margin-bottom: 48px;
 }
+
+
+/* Title Section */
 
 .title-section {
     display: flex;
@@ -63,6 +69,16 @@ figcaption {
     color: lightgray;
 }
 
+
+/* Rocks Section */
+
+.rock-options {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+/* Footer Section */
 
 .footer {
     text-align: center;
