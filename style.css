@@ -9,12 +9,15 @@ ul {
     list-style: none;
 }
 
+body section {
+    padding: 0px 275px;
+}
+
 .header {
     display: flex;
     flex-flow: column;
     background-color: #1F2937;
     color: #ffffff;
-    padding: 0px 275px;
 }
 
 
