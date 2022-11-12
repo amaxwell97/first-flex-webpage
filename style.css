@@ -159,6 +159,7 @@ figcaption {
 .cta-section {
     padding-top: 48px;
     padding-bottom: 48px;
+    color: white;
     display: flex;
     justify-content: center;
 }
@@ -173,6 +174,15 @@ figcaption {
     justify-content: space-around;
     align-items: center;
 
+}
+
+.cta-section button {
+    padding: 8px 24px;
+    background-color: transparent;
+    border: 2px solid #f08080;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 16px;
 }
 
 
