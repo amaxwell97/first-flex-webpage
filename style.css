@@ -168,6 +168,11 @@ figcaption {
     width: 75%;
     background-color: lightblue;
     border-radius: 12px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
 }
 
 
