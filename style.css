@@ -76,6 +76,11 @@ figcaption {
     text-align: center;
 }
 
+.rock-container {
+    display: flex;
+    justify-content: space-between;
+}
+
 .rock-options {
     height: 200px;
     width: 200px;
