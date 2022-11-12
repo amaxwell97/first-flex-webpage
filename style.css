@@ -105,13 +105,24 @@ figcaption {
 /* Testimonial Section */
 
 .testimonial-section {
+    background-color: lightgray;
     display: flex;
+    gap: 24px;
+    padding-top: 32px;
+    padding-bottom: 32px;
 }
 
 .testimonial-img {
-    height: 450px;
-    width: 350px;
+    height: 300px;
+    width: 250px;
     background-color: blue;
+    flex-shrink: 0;
+}
+
+.testimonial-container{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
 }
 
 
