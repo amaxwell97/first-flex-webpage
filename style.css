@@ -75,7 +75,7 @@ figcaption {
 
 /* Rocks Section */
 
-.rocks {
+.rocks-section {
     text-align: center;
 }
 
@@ -84,7 +84,7 @@ figcaption {
     justify-content: space-between;
 }
 
-.rock-options {
+.rock-img {
     height: 200px;
     width: 200px;
     background-color: blue;
