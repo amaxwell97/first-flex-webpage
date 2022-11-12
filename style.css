@@ -108,8 +108,8 @@ figcaption {
     background-color: lightgray;
     display: flex;
     gap: 24px;
-    padding-top: 32px;
-    padding-bottom: 32px;
+    padding-top: 48px;
+    padding-bottom: 48px;
 }
 
 .testimonial-img {
