@@ -35,6 +35,12 @@ ul {
 .title-section {
     display: flex;
     margin-bottom: 64px;
+    flex: 1;
+}
+
+.title-text h1 {
+    font-size: 36px;
+    margin-top: 0;
 }
 
 .title-text button {
@@ -44,8 +50,12 @@ ul {
     padding: 6px 24px;
 }
 
+.title-img-container {
+    flex: 2;
+}
+
 .title-img {
-    width: 400px;
+    width: 600px;
 }
 
 figcaption {
