@@ -109,6 +109,16 @@ figcaption a {
     border-radius: 20px;
 }
 
+.rock-text {
+    background-color: #61764B;
+    border-radius: 4px;
+    color: #fff;
+    padding: 16px 0px;
+    font-family: 'Montserat', sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+}
+
 
 /* Testimonial Section */
 
@@ -201,7 +211,7 @@ figcaption a {
 
 .footer {
     background-color: #61764B;
-    color: #d3d3d3;
+    color: #fff;
     font-size: 12px;
     padding-top: 36px;
     padding-bottom: 36px;
