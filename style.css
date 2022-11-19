@@ -19,7 +19,7 @@ body section {
 .header {
     display: flex;
     flex-flow: column;
-    background-color: #1F2937;
+    background-color: #61764B;
     color: #ffffff;
 }
 
@@ -78,6 +78,11 @@ figcaption {
     padding-left: 12px;
 }
 
+figcaption a {
+    text-decoration: none;
+    color: #fff;
+}
+
 
 /* Rocks Section */
 
@@ -100,8 +105,7 @@ figcaption {
 .rock-img {
     height: 200px;
     width: 200px;
-    background-color: blue;
-    border: 6px solid #f08080;
+    border: 6px solid #FAD6A5;
     border-radius: 20px;
 }
 
@@ -109,7 +113,7 @@ figcaption {
 /* Testimonial Section */
 
 .testimonial-section {
-    background-color: lightgray;
+    background-color: #9BA17B;
     display: flex;
     gap: 24px;
     flex-flow: wrap;
@@ -121,7 +125,6 @@ figcaption {
 .testimonial-img {
     height: 250px;
     width: 250px;
-    background-color: blue;
     border-radius: 50%;
     flex-shrink: 0;
     text-align: center;
@@ -132,6 +135,7 @@ figcaption {
     display: flex;
     flex-flow: column;
     justify-content: center;
+    color: #fff;
 }
 
 .testimonial-person {
@@ -171,7 +175,7 @@ figcaption {
 .cta-container {
     height: 50%;
     width: 75%;
-    background-color: lightblue;
+    background-color: #CFB997;
     border-radius: 12px;
     padding: 20px;
     display: flex;
@@ -183,20 +187,20 @@ figcaption {
 .cta-section button {
     padding: 8px 24px;
     background-color: transparent;
-    border: 2px solid #f08080;
+    border: 2px solid #FAD6A5;
     border-radius: 6px;
     color: #fff;
     font-size: 16px;
 }
 
 .cta-section button:hover {
-    background-color: #f08080;
+    background-color: #FAD6A5;
 }
 
 /* Footer Section */
 
 .footer {
-    background-color: #1F2937;
+    background-color: #61764B;
     color: #d3d3d3;
     font-size: 12px;
     padding-top: 36px;
