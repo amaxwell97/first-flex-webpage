@@ -60,10 +60,14 @@ body section {
 }
 
 .title-text button {
-    background-color: blue;
+    background-color: #FAD6A5;
     border: 0;
+    border-radius: 4px;
     color: #fff;
-    padding: 6px 24px;
+    padding: 8px 32px;
+    font-family: 'Montserat', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
 }
 
 .title-img {
