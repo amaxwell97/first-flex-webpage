@@ -2,6 +2,8 @@
 
 ## First webpage styled with flexboxes as part of the Odin Project.
 
+https://amaxwell97.github.io/first-flex-webpage/
+
 This project was built as part of the <a href="https://www.theodinproject.com/paths/foundations/courses/foundations">Odin Project's Foundations Course</a> (more specifically, the <a href="https://www.theodinproject.com/lessons/foundations-landing-page">Felxbox section</a>). The purpose of the project was to demonstrate, practice, and implement my knowledge of HTML, CSS (no Bootstrap), Flexbox, and Git. All styling in the project is through CSS. Within the project I:
 
 * Set up the HTML boilerplate.
@@ -14,7 +16,7 @@ This project was built as part of the <a href="https://www.theodinproject.com/pa
 * Added a call-to-action section with it's own container and customized button which utilizes CSS hover state.
 * Lastly, set up a simple footer which includes my copyright information.
 
-# My Thoughts
+## My Thoughts
 
 
 <img width="1599" alt="Screen Shot 2022-12-18 at 2 35 07 PM" src="https://user-images.githubusercontent.com/50509775/208318105-7cf2b783-a3c9-4cd7-8983-563e3b9801de.png">
